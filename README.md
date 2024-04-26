@@ -1,7 +1,8 @@
 # Fine-Tuning LLMs
 
 Fine-tuning Large Language Models (LLMs) on GPT-2 [https://huggingface.co/openai-community/gpt2] involves adapting a pre-trained LLM to a specific task or domain. This process involves updating the model's weights to optimize its performance on a specific task or dataset.
-![image](https://github.com/mhadeli/Fine-Tuning-LLMs-GPT-2/assets/58530203/c5deabf5-0b84-4073-887d-83b76d0792a9)
+![image](https://github.com/mhadeli/Fine-Tuning-LLMs-GPT-2/assets/58530203/56c385c5-0c92-477b-a27e-7709cf9c667d)
+
 
 
 ## Different Types of Fine-tuning
